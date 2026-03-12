@@ -1,12 +1,9 @@
-Deploy Static Website on AWS
+Website Endpoint - http://my-906446637068-bucket.s3-website.eu-north-1.amazonaws.com
 
-In this project, you will deploy a static website to AWS using S3, CloudFront, and IAM.
+Account id - 906446637068
 
-The files included are: 
+GitHub repository link - http://github.com/SarojKumari-sk/udacity-starter-website
 
-index.html - The Index document for the website.
-/img - The background image file for the website.
-/vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
-/css - CSS files for the website.
+Distribution domain name - d5u19c79ro4cz.cloudfront.net
 
-
+ARN - arn:aws:cloudfront::906446637068:distribution/E38OXL5HXRG1Q8
